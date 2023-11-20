@@ -41,3 +41,11 @@ overfitting. You could use statistical tests to make this determination.
 
 Add your report and code to this repository. Bonus points if you can set up a
 Github action to automatically run the code and generate the report!
+
+## Resources
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+https://scikit-learn.org/stable/modules/classes.html
+https://scikit-learn.org/stable/index.html
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html
+https://scikit-learn.org/stable/model_selection.html
+
