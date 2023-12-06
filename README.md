@@ -58,9 +58,10 @@ https://scikit-learn.org/stable/modules/generated/sklearn.metrics.balanced_accur
 https://www.w3schools.com/python/python_lists_add.asp
 https://stackoverflow.com/questions/48896660/python-error-list-has-no-attribute-mean
 https://stackoverflow.com/questions/11530799/python-finding-index-of-maximum-in-list
-
-12/02/2023: I have a few more resources I need to add from my other computer. Will include those and update this repo tomorrow. 
-
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.balanced_accuracy_score.html#sklearn.metrics.balanced_accuracy_score
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html
+https://scikit-learn.org/stable/modules/cross_validation.html
+https://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter
 
 
 
